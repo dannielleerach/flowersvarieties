@@ -1,0 +1,5 @@
+Hybrid Tea Roses,Rose,2024-11-10,20,120,tea-rose.jpg
+Shrub Rose,Rose,2024-11-30,50,150,shrub-rose.jpg
+Darwin Hybrid Tulips,Tulip,2024-11-11,200,200,darwin-hybrid-tulips.jpg
+Acropolis Tulip,Tulip,2024-11-17,1500,100,tulipa-acropolis.jpg
+African Queen – Trumpet Lilies,Lily,2024-12-03,30,220,african-queen-trumpet-lily.jpg
